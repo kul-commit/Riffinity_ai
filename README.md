@@ -53,7 +53,7 @@ frontend/
 
 ⚙️ Setup Instructions
 1. Clone the Repository
-git clone https://github.com/your-username/ai-chat-app.git
+git clone [https://github.com/your-username/ai-chat-app.git](https://github.com/your-username/ai-chat-app.git)
 cd ai-chat-app
 
 2. Backend Setup
