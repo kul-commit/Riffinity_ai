@@ -53,8 +53,8 @@ frontend/
 
 ⚙️ Setup Instructions
 1. Clone the Repository
-git clone [https://github.com/your-username/ai-chat-app.git](https://github.com/your-username/ai-chat-app.git)
-cd ai-chat-app
+git clone https://github.com/kul-commit/Riffinity_ai.git
+cd Riffinity_ai
 
 2. Backend Setup
 cd backend
